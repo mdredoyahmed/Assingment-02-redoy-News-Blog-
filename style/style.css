@@ -94,3 +94,37 @@ body {
   border-radius: 5px;
  
 }
+
+
+
+
+
+.featured-article  {
+  position: relative;
+  overflow: hidden;
+  height: 100%;
+}
+.featured-article img {
+  width: 100%;
+  height: auto;
+
+}
+.featured-article .overlay{
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  align-items: end;
+  background: rgba(105, 96, 96, 0.5);
+  color: #fff;
+  display: flex;
+
+  padding: 1rem;
+}
+
+.img-len{
+  height: 100%;
+  width: 100%;
+  margin: 0 auto;
+}
