@@ -71,3 +71,26 @@ body {
   font-size: 0.75rem;
   color: rgb(27, 23, 23);
 }
+
+.primari-btn{
+  width: 100px;
+  height: 40px;
+  font-size: 0.8rem;
+  font-weight: 700;
+  padding: 5px;
+  background-color: rgba(240, 143, 100, 1);
+  border-radius: 20px;
+}
+.border{
+  border-radius: 10px;
+  width: 300px;
+  padding: 15px;
+}
+.img-icon{
+  width: 40px ;
+  height: 38px;
+  background-color: rgba(240, 143, 100, 1);
+  padding: 5px;
+  border-radius: 5px;
+ 
+}
